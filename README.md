@@ -7,4 +7,4 @@ Autoencoder is greate at representation learning. I use this model for anomaly d
 # Results
 Accuracy on:
 - `KDDTrain+`: 99%
-- `KDDTest+': 95%
+- `KDDTest+`: 95%
